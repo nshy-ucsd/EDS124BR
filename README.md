@@ -6,3 +6,4 @@
 - Link to the Monkey Banana explanation video (week 3):https://youtu.be/Qg9tWwe7ELw
 - Link to the Square, Triangle, and Pentagon drawing explanation video (week 4): https://youtu.be/KL4Qzkajwgo
 - Link to the Conditional Loop Moving Ball explanation video (week 5): https://youtu.be/Lhl3Gw4ii5U
+- Link to the Penguin Swimming If Else explanation video (week 7): https://youtu.be/Hi-bhRVLZMU
