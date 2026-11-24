@@ -7,3 +7,4 @@
 - Link to the Square, Triangle, and Pentagon drawing explanation video (week 4): https://youtu.be/KL4Qzkajwgo
 - Link to the Conditional Loop Moving Ball explanation video (week 5): https://youtu.be/Lhl3Gw4ii5U
 - Link to the Penguin Swimming nested if else explanation video (week 7): https://youtu.be/Hi-bhRVLZMU
+- Link to the Alonzo Treasure Hunt (week 8): https://youtu.be/mRSdYA2kNCQ
